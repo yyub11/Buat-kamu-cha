@@ -151,10 +151,11 @@ body {
 .text-for-you {
     margin-top: 50px;
     color: white;
-    font-size: 28px;
-    letter-spacing: 8px;
+    font-size: px;
+    letter-spacing: 60px;
     text-transform: uppercase;
-    font-weight: 160;
+    font-weight: ;300
     text-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
 }
+
 
